@@ -1,0 +1,8 @@
+# ignoring from App folder
+# -----------------------
+# created by the IDE
+app/.idea/
+app/target/
+
+
+
