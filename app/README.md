@@ -4,7 +4,7 @@ all code comes here
 ## Important Notes -- *About Code*
 
 ### Tools And IDE
-* **IntelliJ IDEA Community Edition** .. the IDE 
+**IntelliJ IDEA Community Edition** .. the IDE 
 * **Scene Builder** to Design .fxml Files
 * **Maven** was used to Manage dependnecies
 
